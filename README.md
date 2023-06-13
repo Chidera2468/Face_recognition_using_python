@@ -1,4 +1,7 @@
 # Building a face detection and recognition tool with python
+![face recognition image cover](https://github.com/Chidera2468/Face_recognition_using_python/assets/111118184/b025dd51-7ed8-4e71-a007-762529ff0f6f)
+
+
 INTRODUCTION:
 
 This project helps its users to build face detection and recognition tool using Python. I am the only contributor to this project. As a software engineer I am focusing on building a face recognition tool that could help companies and other vital bodies in the society, especially in the area of security and transportation.
