@@ -6,8 +6,13 @@ INTRODUCTION:
 
 This project helps its users to build face detection and recognition tool using Python. I am the only contributor to this project. As a software engineer I am focusing on building a face recognition tool that could help companies and other vital bodies in the society, especially in the area of security and transportation.
 The level of insecurity in my area is becoming overwhelming. I was on the streets one day when I saw some unknown gunmen walk out of their cars just to rob different shops of their hard-earned money without being disturbed or recognized. When the victims affected by the ugly incident are asked if they could recognize these people they usually gave a negative answer. This issue of robbery continued to the extent that I got worried and I asked myself the reason I am in this world. I discovered that one of the reasons for existence on Earth is to solve problems. I started looking for a way to solve this problem of insecurity. I realized that this project will help me find a solution to this problem of insecurity. I hope to use this tool to help reduce the level of insecurity and capture the faces of those who are guilty of crimes.
+
+
 Below are links to my linkedIn and blog article;
+
 https://medium.com/@chidera2468/face-recognition-tool-with-python-b685da043805
+
+
 https://www.linkedin.com/in/chidera-jamike-947363270/
 
 [![PyPI](https://badge.fury.io/py/FaceReco.png)](https://pypi.org/project/FaceReco/)
